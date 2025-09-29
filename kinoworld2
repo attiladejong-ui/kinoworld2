@@ -143,5 +143,313 @@ https://hls2-cdn31.cloudlionscdn.com/hls/wPhEQKihMFHxHJgeh3ai4xkMzMIc5q/index_19
 https://hls1-cdn38.cloudlionscdn.com/hls/dRbP7FDqZJdGXSDmJRPIShSQ9YcvTM/index_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",40 éves szűz
-https://hls2-cdn31.cloudlionscdn.com/hls/-több részben csináld meg.ez az 1 részz4RIAyMXTXgiY6Xn4RqZUkjx6Pogpt/index_1998x1080.m3u8
+https://hls2-cdn31.cloudlionscdn.com/hls/z4RIAyMXTXgiY6Xn4RqZUkjx6Pogpt/index_1998x1080.m3u8
+#EXTM3U
+
+# Sci Fi kategória
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Csillagkapu (Stargate)
+https://hls1-cdn37.cloudlionscdn.com/hls/855WIFGw3Mkn0LuJirocOjjHNPgvxd/index_2592x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Menekülés New Yorkból (1981)
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/Je54ARXG9mL6Zf94uduX2JtG54UuBQ/index_2542x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",A Fantasztikus négyes és az Ezüst utazó (2007)
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/QvjkksyzxmPpudMzcFx8oyj7REXeWU/index_2592x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",X Men - Sötét Főnix (Dark Phoenix) 2019
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/ZA9bKBvRxnzARh6elRuXuMlm6SPQyQ/index_1144x480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",A Bolygó neve halál (rendezői változat) 1986
+https://hls2-cdn32.cloudlionscdn.com/hls/wmwYBEKibXrMsfjs8iFFDRbvwnqKUf/index_2002x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Mentőexpedíció
+https://hls1-cdn38.cloudlionscdn.com/hls/DIAqUBsPznPbWgBQjOMBr2HpZyEan4/index_1732x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Az Útvesztő 2013
+https://hls2-cdn31.cloudlionscdn.com/hls/nQucGLv2l5wWzwRpSQiixz6ua9JuGx/index_1728x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",The Abyss-A mélység titka (1989)
+https://hls1-cdn38.cloudlionscdn.com/hls/Gw2u563Zcxv6qz6JsJnTlHr1xNcImx/index_2586x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Csillagközi invázió 1997
+https://hls2-cdn30.strmupcdn.cc/hls/6ickTAQ6UYazIe0Mw6st0IKuDVlBMm/index_1994x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",22 évente sötétség
+https://s2-hls1-cdn43.rdr2games.com/hls/5mVgVJKezLnEXfzokYyB7kNLBDu5he/index_2542x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Riddick
+https://hls2-cdn30.strmupcdn.cc/hls/7V7puQwJyCoYoLM98cZ5CskhfzMrpM/index_2592x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Cyborg
+https://hls1-cdn38.cloudlionscdn.com/hls/1YODSopB01cEgREVWZwVodrlDIo3kc/index_1998x1080.m3u8
+# Thriller / Akció / Krimi kategória
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A Világ összes pénze (2017)
+https://hls1-cdn29.cloudlionscdn.com/hls/m1eKkGX57cfB04k2VtVqvtJ6lnNoIw/index_1152x480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Senki 2.
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/gcRte91PMJ1lTWeDgZf0WM1iyqL9F5/index_1152x480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",48 Óra (1982)
+https://hls1-cdn37.cloudlionscdn.com/hls/46yW3QxCCWd3aBk1cmfElpagKoWJlQ/index_872x480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Kötéltánc (Tightrope)
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/3t5H7s8ItvTuEfHyzLxxQeq97UDQA7/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Nem futhatsz örökké 2024
+https://hls2-cdn31.cloudlionscdn.com/hls/EV8JT41CPMSV7eMHeIdIUKPh0gORFY/index_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A13.-as (Mickey Rourke)
+https://hls2-cdn31.cloudlionscdn.com/hls/KtFWAyyT4cO2ynqWDph8ZORzYNmMoH/index_864x480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A szürke ember (2022)
+https://s2-hls1-cdn43.rdr2games.com/hls/D1LQ6bYaStsWuEwKPoQdP812nHlBVo/index_2580x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Feláldozhatók 3
+https://hls2-cdn30.strmupcdn.cc/hls/LuZkJISY1OWWOCduJsuDfvtQR73kjV/index_2592x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A visszatérő
+https://hls2-cdn30.strmupcdn.cc/hls/6YiiDtxfLJn7UYGZkxZNZnJdhelCOg/index_1720x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Brick
+https://hls1-cdn35.cloudlionscdn.com/hls/cZv5Pryi40AEI2er8bnRiNOyOdJekU/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A gép - The Plane
+https://hls2-cdn39.cloudlionscdn.com/hls/DaEAuAhbC4mihPngepOYUeibNHB0jp/index_1728x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Felhőkarcoló
+https://hls1-cdn46.cloudlionscdn.com/hls/iwqmidySzQ51OgerDKKr5MoKO7BUtn/index_2592x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A kalandor
+https://hls1-cdn46.cloudlionscdn.com/hls/5iReiDKd8nI4WdIBXtzs5ZqQIWeOnj/index_2542x1080.m3u8
+# Western kategória
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Bosszú El Pasoban - Ace High (1968)
+https://hls2-cdn31.cloudlionscdn.com/hls/AVo67agOxZhMywLv4pfRUVvfCcp7gb/index_2548x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Az inkák kincse
+https://hls2-cdn31.cloudlionscdn.com/hls/o4iPfhGQYeBKSLsPksuUyaJJe1OVje/index_640x480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Fakó lovas (1985)
+https://hls2-cdn30.strmupcdn.cc/hls/7dKqgnYcR7iGRrxHHIR0lj3mNN45Zg/index_1752x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Fennsíkok csavargója
+https://hls1-cdn46.cloudlionscdn.com/hls/pdb5WETZ3mN3MuPI4KtXhf2C0ftJrI/index_2586x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Idegen a cowboyok között (1958)
+https://hls2-cdn39.cloudlionscdn.com/hls/LhpSj75CrbMyz6XxNKUaaN4F5DzWGAgqs4/index_1918x1080.m3u8
+#EXTM3U
+#EXTGRP:Filmek Háborús
+#EXTINF:-1,Westerplatte-i csata (2013)
+https://hls2-cdn31.cloudlionscdn.com/hls/073Cdn6ig4XWG6ojzI9sVPORKihEDk/index_960x480.m3u8
+#EXTGRP:Filmek Háborús
+#EXTINF:0,Ameddig a lábam bírja 2001
+https://hls1-cdn29.cloudlionscdn.com/hls/Gn3qqwJYjcx7B0R8TebgCrqrftMkLx/index_1994x1080.m3u8
+#EXTINF:0,Pompei (2014)
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/zR0WywGEkBPsiK77hblwnIke8sAcxg/index_1720x720.m3u8
+#EXTINF:0,Westerplatte-i csata (2013)
+https://hls2-cdn31.cloudlionscdn.com/hls/073Cdn6ig4XWG6ojzI9sVPORKihEDk/index_960x480.m3u8
+#EXTINF:0,Intre Chin Si Amin 2019
+https://hls2-cdn32.cloudlionscdn.com/hls/3vIChN98wEETNsLelT8vC4Ulf9tDdS/index_1920x1080.m3u8
+#EXTINF:0,Elrabolt expresszvonat (1965)
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/qkVW1Z2JvkROVA2oQcUR4SO6RgiDJk/index_1130x480.m3u8
+#EXTINF:0,A nagy szökés 2 - 1rész
+https://s2-hls1-cdn36.cloudlionscdn.com/hls/kzOKjdT5KUeDSTZqcoxdfXpxEZssqV/index_1920x1080.m3u8
+#EXTINF:0,A nagy szökés 2 - 2 rész
+https://hls2-cdn31.cloudlionscdn.com/hls/8whPhlwmfzJiXqY1duQKYo51pxRQDJ/index_1920x1080.m3u8
+#EXTINF:0,Híd a Kwai folyón 1957
+https://hls2-cdn37.cloudlionscdn.com/hls/OMaAR7fInwe0xgzmYmjDNkvjAaBTmn/index_1920x1080.m3u8
+#EXTINF:0,Sztálingrád 2013
+https://hls2-cdn39.cloudlionscdn.com/hls/yfkaXmh6D3lQQfwF2bzXHxehdoojG1/index_1920x1080.m3u8
+#EXTGRP:Rajzfilmek
+#EXTINF:0,Pinokkio
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/JnEHnBEFHVvZuQNDuVcfASHtdzFvK6/index_968x720.m3u8
+#EXTINF:0,Nyúlhájkapitány 1954
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/NgU8uCtb5dX1gpqLjKAfKj0DZ6f8Kk/index_1920x1080.m3u8
+#EXTINF:0,Madagaszkár (2005)
+https://fcgbwu5x4pis.drewimplemnt.top/d/ggzewd24o6vqy4m6mgv5f425tks7w2bgaxzx67g5rhygwrcjord26mh3wf4skr6vgltgaclz/Madagaszk%C3%A1r%20(FULLHD).mp4
+#EXTINF:0,Madagaszkár 2
+https://hls1-cdn38.cloudlionscdn.com/hls/kXKRBslhrZ2Zy7NxZkzsJaRd9mhAQw/index_1920x1080.m3u8
+#EXTGRP:Filmek Bollywood
+#EXTINF:0,Zende Felügyelő
+https://hls1-cdn38.cloudlionscdn.com/hls/WDphFF4eQa2HsvMLjPPrCgkUnQ94mV/index_1920x1080.m3u8
+#EXTINF:0,Savi (2024)
+https://hls1-cdn38.cloudlionscdn.com/hls/poOhOjE8aHKpemfdk49kkl7rpUfRtZ/index_2694x1080.m3u8
+#EXTINF:0,Áldom a szél süvöltő erejét(Bhaje.Vaayu.Vegam.)2024
+https://hls2-cdn31.cloudlionscdn.com/hls/9rtVH9mkvN0esWiqfsMbko0INdy3mS/index_2580x1080.m3u8
+#EXTINF:0,Bengal Tiger 2015
+https://hls1-cdn38.cloudlionscdn.com/hls/492p7BwB3pZW5tmHZU2DOZmzjcMGQK/index_1920x1080.m3u8
+#EXTGRP:Filmek Horror
+#EXTM3U
+
+#EXTGRP:Horror
+#EXTINF:0,Préda (2019)
+https://hls1-cdn29.cloudlionscdn.com/hls/MOcDOPXI3Tb2xAKUoOJflk2oLxaiUW/index_1728x720.m3u8
+#EXTINF:0,Constantine a démonvadász
+https://hls2-cdn32.cloudlionscdn.com/hls/eXtdzKauE4NUF3HEZlQ4qZJa0RrZR1/index_1280x720.m3u8
+
+#EXTGRP:80-as évek
+#EXTINF:0,A Szerelem tengere (1989)
+https://hls1-cdn37.cloudlionscdn.com/hls/46yW3QxCCWd3aBk1cmfElpagKoWJlQ/index_872x480.m3u8
+#EXTINF:0,Vadászat életre halálra (1981)
+https://hls1-cdn38.cloudlionscdn.com/hls/0EmNWMiMN2pxCBOsXQH6P5i3s5B1Ii/index_1994x1080.m3u8
+#EXTINF:0,Szabadlábon Velencében (1980)
+https://hls2-cdn32.cloudlionscdn.com/hls/0UO0g27kFJ1wRqevUZPRCo64IdIFLx/index_808x480.m3u8
+#EXTINF:0,szeretlek benneteket (1980)
+https://hls1-cdn37.cloudlionscdn.com/hls/rtwYm5bX9lbkYs4CC7LSPmQElcreN7/index_900x720.m3u8
+#EXTINF:0,A rejtőzködő (1987)
+https://s2-hls1-cdn43.rdr2games.com/hls/A7YsnCOKjzZ3DpCZ1hXM4aUYG93dWe/index_1920x1080.m3u8
+#EXTINF:0,A zöldfülű (1987) akcio
+https://s2-hls1-cdn43.rdr2games.com/hls/bqnRJHgnB82JbQwWfGJ9x8Npqqoalr/index_1720x720.m3u8
+#EXTINF:0,53 Hideg nyara (1987)
+https://hls2-cdn32.cloudlionscdn.com/hls/PIgKJBg3OwqoAtsfvvnxOYmXXvR551/index_954x720.m3u8
+#EXTINF:0,Xanadu 1980
+https://hls2-cdn32.cloudlionscdn.com/hls/rS5CHYrLnCeR27Zyjss1kyFR9vuykh/index_1998x1080.m3u8
+#EXTINF:0,A halálhágó 1986
+https://s2-hls1-cdn43.rdr2games.com/hls/0ANBld9sDmoMc1svrwq3PG0GQAaMMH/index_1920x1080.m3u8
+
+#EXTGRP:70-es évek
+#EXTINF:0,Fantozzi (1975)
+https://hls1-cdn37.cloudlionscdn.com/hls/H2nADBymzvkl4PrChVdgXLuWdaULKt/index_880x480.m3u8
+#EXTINF:0,A cigány (1975)
+https://hls1-cdn29.cloudlionscdn.com/hls/WS3mIwgpGWp2KmTtRUZMlgLQVumy1d/index_1920x1080.m3u8
+#EXTINF:0,Mr. Majestyk (1974)
+https://hls1-cdn38.cloudlionscdn.com/hls/8WrDuMT6kY6zOf5KGiTtjEzzHXwLdY/index_1994x1080.m3u8
+#EXTINF:0,Emmanuelle (1974)
+https://hls1-cdn37.cloudlionscdn.com/hls/YBAvgVT95KJ9YAoXVAcbjLmgEKABf6/index_1176x720.m3u8
+#EXTINF:0,Piszkos Harry (1971)
+https://hls1-cdn38.cloudlionscdn.com/hls/WJ9FgZroNaOn05Jx1pxB2QneWkwC3e/index_1728x720.m3u8
+#EXTINF:0,Arany -Gold! (1974)
+https://hls2-cdn31.cloudlionscdn.com/hls/OwrYNhoXmaHqlfVFUyCXWwvxME8KMp/index_1694x720.m3u8
+#EXTINF:0,Lepke a vállon 1973
+https://s2-hls1-cdn43.rdr2games.com/hls/2f0gEDBXfSLpEZLbc1b3dWzv6qE0Yp/index_1280x720.m3u8
+#EXTINF:0,Keressétek a bálványt 1974
+https://hls2-cdn37.cloudlionscdn.com/hls/Sje8BtfOxCrY9J1rAggaRfX286lin8/index_1920x1080.m3u8
+#EXTINF:0,Orca 1977
+https://hls2-cdn39.cloudlionscdn.com/hls/oa2DxNWvsae2Za9y3JfXAqvwQHkdZF/index_2542x1080.m3u8
+
+#EXTGRP:60-as évek
+#EXTINF:0,A Quiller jelentés 1966
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/g34ewiW5XJ2OezmZmr6bLkYowiMlld/index_1130x480.m3u8
+#EXTINF:0,Folytassa a sivatagban (1967)
+https://hls2-cdn31.cloudlionscdn.com/hls/ab2TwTkXi9MRpJe2mIKHY0sYjXXebr/index_830x480.m3u8
+#EXTINF:0,Khartoum a Nílus városa (1966)
+https://hls1-cdn38.cloudlionscdn.com/hls/XkNXl6yUTrwizMxsaSBAtNHIlLMtpT/index_1976x720.m3u8
+#EXTINF:0,Elfelejtett ősök árnyai szovjet film(1964)
+https://hls1-cdn38.cloudlionscdn.com/hls/gKyC2Ea8XavFvNmetuud0yGg9BH7US/index_654x480.m3u8
+#EXTINF:0,Olivér (1968)
+https://hls1-cdn38.cloudlionscdn.com/hls/pVtNT8pjG1h4Pg64fqSDqUSeCx6tSo/index_856x480.m3u8
+#EXTINF:0,Fantasztikus utazas (1966)
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/9vsDqnwoydwSIb48ay43OA7Z2InthM/index_2542x1080.m3u8
+#EXTINF:0,Jó estétMrs. Campbell
+https://hls1-cdn37.cloudlionscdn.com/hls/X1GO0GcJ9HX5GZXWZmlJgEZu0NAQml/index_1994x1080.m3u8
+#EXTINF:0,Az aranycsempész (1964)
+https://hls1-cdn37.cloudlionscdn.com/hls/p6YEL7oJ3MIArB9Fjf9mzzlyw77RiL/index_1136x480.m3u8
+#EXTINF:0,Tükör által homályosan-Ingrid Bergman (1961)
+https://hls1-cdn37.cloudlionscdn.com/hls/jmNA6gsm5d4AGLFrjwtxyy7277TNjF/index_1488x1080.m3u8
+#EXTINF:0,Párizsi blues(1961)
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/P6hQmEVq8zQW2xY6nmBuPxhz9X21ql/index_1800x1080.m3u8
+#EXTINF:0,Temetni veszélyes -1963
+https://hls1-cdn37.cloudlionscdn.com/hls/EEBQ7M3Jr9eL6cMG1GYRGgUiCqVj4y/index_1920x1080.m3u8
+#EXTINF:0,Rómeó és Júlia (1964)
+https://hls2-cdn31.cloudlionscdn.com/hls/D1ifgisCKQ7mMTu8AVaTTeenD1Syyn/index_1330x720.m3u8
+#EXTINF:0,Szemtől szemben 1967
+https://s2-hls1-cdn43.rdr2games.com/hls/NaPeIGU0swibemcnJZSuyDB6q2lP3o/index_1280x720.m3u8
+#EXTINF:0,El a kezekkel a feleségemtől 1966
+https://hls1-cdn38.cloudlionscdn.com/hls/CbnmcIVO6j5hbjsmtsYaxLuYhSFmvE/index_1920x1080.m3u8
+#EXTINF:0,Legénylakás 1960
+https://hls2-cdn37.cloudlionscdn.com/hls/ocz4DoHL6AlrPuRk1XLVGnCYQ3NheU/index_1920x1080.m3u8
+#EXTINF:0,Az Ipcress ügyirat 1965
+https://hls2-cdn37.cloudlionscdn.com/hls/TSZrqgAdKikueAmFtdijotEjKIe2W7/index_1130x480.m3u8
+#EXTM3U
+
+#EXTGRP:50-es évek
+#EXTINF:0,Nagy Sándor (1956)
+https://s2-hls1-cdn36.cloudlionscdn.com/hls/xpZm1Y7jXCxZVtqObT9lP9sGrQ5AK1/index_1128x480.m3u8
+#EXTINF:0,A faljáró 1951
+https://hls1-cdn35.cloudlionscdn.com/hls/kdEgr3aNMzuJd68R0Wa463xzK884E8/index_1454x1080.m3u8
+#EXTINF:0,Hirtelen félelem - Sudden Fear (1952)
+https://hls1-cdn35.cloudlionscdn.com/hls/FOSIEsmrCI3ChEXfKCMP4PK8amPXyv/index_988x720.m3u8
+#EXTINF:0,Bocsáss meg drágám 1956
+https://hls2-cdn37.cloudlionscdn.com/hls/jZl8cTszYLV7EjFMvYSzKFZMvD8r0L/index_1440x1080.m3u8
+
+#EXTGRP:30-40-es Évek
+#EXTINF:0,A Bagdadi tolvaj (1940)
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/yrue0Mn8KRGc56iMWiuHVS7lFWuNd1/index_984x720.m3u8
+#EXTINF:0,Szabotázs (1936)
+https://hls1-cdn29.cloudlionscdn.com/hls/GGRHNKz1bcNXbIM13Q9TAcxWEsm2GA/index_640x480.m3u8
+#EXTINF:0,Hitchcock Fiatal és ártatlan (1937)
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/mqiKfrCGlwKW6vMWmaosv37INBFFyW/index_640x480.m3u8
+#EXTINF:0,A kötél (1948)
+https://hls1-cdn29.cloudlionscdn.com/hls/65hMLvNUNjv1epDmV7JhXPFxCrKnbD/index_640x480.m3u8
+#EXTINF:0,Casablanca (1942)
+https://s2-cdn31.cloudlionscdn.com/hls/FX392mdLrhO1JynNANIyntJQdEg3Jn/index_982x720.m3u8
+#EXTINF:0,Gyémántvadászok (1949)
+https://hls1-cdn29.cloudlionscdn.com/hls/mmWLYuvSUoBEeQGXZU2VQsik5oyoWp/index_1920x1080.m3u8
+#EXTINF:0,Robin Hood kaladjai (1938)
+https://s2-cdn31.cloudlionscdn.com/hls/bpZRA8iSMzZTnvyvEtbwPUy4ggWmdV/index_654x480.m3u8
+#EXTINF:0,Tarzan és asszonya
+https://s2-cdn31.cloudlionscdn.com/hls/tbcBfSD5t7Mm75bSqGgVZWSB0YWv5C/index_1280x720.m3u8
+#EXTINF:0,Tarzan és fia 1939
+https://hls1-cdn29.cloudlionscdn.com/hls/sl74IzqqjFQCZi51bWjNVW8Ys3LIhR/index_640x480.m3u8
+#EXTINF:0,Tarzan New Yorkban 1942
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/ysRwGrTA8GP2Bm8T03YDV1WkIV8XAd/index_638x480.m3u8
+#EXTINF:0,Tarzan titkos kincse (1941)
+https://hls1-cdn29.cloudlionscdn.com/hls/ApHoK00CcYeClfAs9sjNYHZQqZhJpk/index_1280x720.m3u8
+#EXTINF:0,Tarzan és a Leopárdnő (1946)
+https://s2-cdn31.cloudlionscdn.com/hls/4qR0bpykfvsmbbBKptb0ch0xVapmIn/index_1280x720.m3u8
+#EXTINF:0,Tarzan és az amazonok (1945)
+https://hls1-cdn29.cloudlionscdn.com/hls/9ZymfcSYBcwMS75sUA58VqZRl1MPoV/index_1280x720.m3u8
+#EXTINF:0,Gunga Din 1939
+https://s2-cdn37.cloudlionscdn.com/hls/OPIZgt8S85mDerVWpP8s0FPgVCWgff/index_1474x1080.m3u8
+#EXTINF:0,Csapajev 1934
+https://s2-cdn37.cloudlionscdn.com/hls/ieCvqm49rXUBoaLsX5SkPx9BHaTgVl/index_600x480.m3u8
+
+#EXTGRP:Sorozatok
+#EXTINF:0,Öltések közt az idő
+https://hls1-cdn32.cloudlionscdn.com/hls/eHYpbyE81F9zZg1E6al3pqTEvrvF5z/index_864x480.m3u8
+#EXTINF:0,Öltések közt az idő 2. rész
+https://hls1-cdn38.cloudlionscdn.com/hls/Be9SYH4FUoc2cwFbu2RF77P7hM8ksp/index_864x480.m3u8
+#EXTINF:0,Öltések közt az idő 3.rész
+https://hls1-cdn32.cloudlionscdn.com/hls/uzpnHAYDZsqhI71INYOYkGkMujNJUq/index_864x480.m3u8
+#EXTINF:0,Öltések közt az idő 4.rész
+https://hls1-cdn38.cloudlionscdn.com/hls/Do9el4WQVTCNoU6xp1HV8QZf5At49t/index_864x480.m3u8
+#EXTINF:0,Öltések közt az idő 5 rész
+https://hls1-cdn32.cloudlionscdn.com/hls/gGUTSsP4YAyga9srVRVP9AQGJ4flnU/index_864x480.m3u8
+#EXTINF:0,Öltések közt az idő 7 rész
+https://hls1-cdn32.cloudlionscdn.com/hls/2cAtpD5YNR0UQbcomfCeGROJ7AmVpM/index_864x480.m3u8
+#EXTINF:0,Sztrogoff Mihály 1.rész
+https://hls1-cdn37.cloudlionscdn.com/hls/qMpUPqFk23xpiStgkbFmNshXO4jexz/index_640x480.m3u8
+#EXTINF:0,Sztrogoff Mihály 2 rész.
+https://hls1-cdn37.cloudlionscdn.com/hls/C6n28qrMiNRQAZUGXiogR9lDlYA5jl/index_640x480.m3u8
+#EXTINF:0,Sztrogoff Mihály 3. rész
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/znwp37J7MxE5Vutxff1Ev50joIgK6V/index_640x480.m3u8
+#EXTINF:0,Sztrogoff Mihály 5. rész
+https://hls1-cdn37.cloudlionscdn.com/hls/ivNwr3gdVPBnObMzTsVWp2owlmjAqk/index_640x480.m3u8
+#EXTINF:0,Sztrogoff Mihály 6. rész
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/Qs8D6eDoVTyamAuL3MGAmHwvZim5Mz/index_640x480.m3u8
+#EXTINF:0,Sztrogoff Mihály 7. rész
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/cdi3C4ZtQSztRlIBQIcu1b4tI8RtNT/index_640x480.m3u8
+#EXTINF:0,Vakáción a Mézga Család -1.rész Vakáció
+https://hls1-cdn37.cloudlionscdn.com/hls/KTtnz5Ue5FWyLExatQlU2BpGMzfTvQ/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga Család -2.rész Az igéret Földje
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/89jpkuWIjgMiRERZGQaOuy6YUkjj4z/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 3.rész - A Jég Hátán
+https://hls2-cdn32.cloudlionscdn.com/hls/DCWfzgPd8VaA8LvuUJN4deG7dKyz67/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 4. rész-A Lakatlan Sziget
+https://hls1-cdn37.cloudlionscdn.com/hls/RwiaZYiWSsqAF4gfGpkUnsvpza6NO6/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 5.rész - Cseberből Vederbe
+https://hls1-cdn37.cloudlionscdn.com/hls/fByJXafCSL78NtPmWNV9xXO7eAtPgk/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 6.rész- Az Üvegszemű Kapitány
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/RUXFRLBvht1XJzSTWtF070aBLWMA5D/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 9.rész - Élve Eltemetve
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/vQJas94E8EUSDSm6vfI3DAin9OYtzg/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család -10.rész - Egy Rossz Húzás
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/ISzYqFvb42vSUm6K7N7yjMnlKcbwBM/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 11.rész - A Fekete Arany
+https://s2-hls1-cdn36.cloudlionscdn.com/hls/FLrJSlUlrRcJPZuebQkMUK6nIG6QNY/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 12.rész - Hamis Barátok
+https://hls1-cdn37.cloudlionscdn.com/hls/pHBSXiC1CLRsegWML1BXK3p2Zq4iSG/index_960x720.m3u8
+#EXTINF:0,Vakáción a Mézga család - 13.rész - Végre Otthon!
+https://s2-hls1-cdn36.cloudlionscdn.com/hls/ZtN3GSfJL9OcWqS7FBPP9SZEip5PPQ/index_960x720.m3u8
+
+
 
