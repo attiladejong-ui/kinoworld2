@@ -113,8 +113,17 @@ https://hls1-cdn29.cloudlionscdn.com/hls/03Kn4ZvbrAewXY2DGGSyrDq75Kzj6y/index_64
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",5 óra 40 perc
 https://hls1-cdn29.cloudlionscdn.com/hls/dxTQ1yzwcyklPfV2W6NAIufrKK74Xf/index_654x480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",120-as Tempo
+#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar",120-as Tempo
 https://hls2-cdn31.cloudlionscdn.com/hls/B6HT3oVvnqHb5GHuHjB3fW9fpjcX31/index_666x480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar",Csúnya lány 1937 
+https://hls1-cdn29.cloudlionscdn.com/hls/oQ5TXawJg2PN3PsCQXEuzEuPHE3s6c/index_666x480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar", A kölcsönkért kastély
+https://hls2-cdn31.cloudlionscdn.com/hls/0pmyLatQZVZCs7AvZQwVmF6wrJZxFQ/index_654x480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar"Bob Herceg 1937
+https://hls2-cdn31.cloudlionscdn.com/hls/G41dxuL1OxyanBvRnfECWOCHiSpQKC/index_680x480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar",Valamit visz a víz
+https://hls1-cdn29.cloudlionscdn.com/hls/2ranE4QxR7muwp0DVo8uAoWDpLKNht/index_692x480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Szárnyát vagy combját
 https://s2-hls2-cdn35.cloudlionscdn.com/hls/SFHjASH3XNj3L7AShcLZp83KOe2VUh/index_1920x1080.m3u8
 
