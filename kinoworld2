@@ -249,74 +249,90 @@ https://hls1-cdn46.cloudlionscdn.com/hls/pdb5WETZ3mN3MuPI4KtXhf2C0ftJrI/index_25
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Idegen a cowboyok között (1958)
 https://hls2-cdn39.cloudlionscdn.com/hls/LhpSj75CrbMyz6XxNKUaaN4F5DzWGAgqs4/index_1918x1080.m3u8
 #EXTM3U
-#EXTGRP:Filmek Háborús
-#EXTINF:-1,Westerplatte-i csata (2013)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Westerplatte-i csata (2013)
 https://hls2-cdn31.cloudlionscdn.com/hls/073Cdn6ig4XWG6ojzI9sVPORKihEDk/index_960x480.m3u8
-#EXTGRP:Filmek Háborús
-#EXTINF:0,Ameddig a lábam bírja 2001
-https://hls1-cdn29.cloudlionscdn.com/hls/Gn3qqwJYjcx7B0R8TebgCrqrftMkLx/index_1994x1080.m3u8
-#EXTINF:0,Pompei (2014)
-https://s2-hls2-cdn34.cloudlionscdn.com/hls/zR0WywGEkBPsiK77hblwnIke8sAcxg/index_1720x720.m3u8
-#EXTINF:0,Westerplatte-i csata (2013)
-https://hls2-cdn31.cloudlionscdn.com/hls/073Cdn6ig4XWG6ojzI9sVPORKihEDk/index_960x480.m3u8
-#EXTINF:0,Intre Chin Si Amin 2019
-https://hls2-cdn32.cloudlionscdn.com/hls/3vIChN98wEETNsLelT8vC4Ulf9tDdS/index_1920x1080.m3u8
-#EXTINF:0,Elrabolt expresszvonat (1965)
-https://s2-hls2-cdn35.cloudlionscdn.com/hls/qkVW1Z2JvkROVA2oQcUR4SO6RgiDJk/index_1130x480.m3u8
-#EXTINF:0,A nagy szökés 2 - 1rész
-https://s2-hls1-cdn36.cloudlionscdn.com/hls/kzOKjdT5KUeDSTZqcoxdfXpxEZssqV/index_1920x1080.m3u8
-#EXTINF:0,A nagy szökés 2 - 2 rész
-https://hls2-cdn31.cloudlionscdn.com/hls/8whPhlwmfzJiXqY1duQKYo51pxRQDJ/index_1920x1080.m3u8
-#EXTINF:0,Híd a Kwai folyón 1957
-https://hls2-cdn37.cloudlionscdn.com/hls/OMaAR7fInwe0xgzmYmjDNkvjAaBTmn/index_1920x1080.m3u8
-#EXTINF:0,Sztálingrád 2013
-https://hls2-cdn39.cloudlionscdn.com/hls/yfkaXmh6D3lQQfwF2bzXHxehdoojG1/index_1920x1080.m3u8
-#EXTGRP:Rajzfilmek
-#EXTINF:0,Pinokkio
-https://s2-hls2-cdn35.cloudlionscdn.com/hls/JnEHnBEFHVvZuQNDuVcfASHtdzFvK6/index_968x720.m3u8
-#EXTINF:0,Nyúlhájkapitány 1954
-https://s2-hls2-cdn34.cloudlionscdn.com/hls/NgU8uCtb5dX1gpqLjKAfKj0DZ6f8Kk/index_1920x1080.m3u8
-#EXTINF:0,Madagaszkár (2005)
-https://fcgbwu5x4pis.drewimplemnt.top/d/ggzewd24o6vqy4m6mgv5f425tks7w2bgaxzx67g5rhygwrcjord26mh3wf4skr6vgltgaclz/Madagaszk%C3%A1r%20(FULLHD).mp4
-#EXTINF:0,Madagaszkár 2
-https://hls1-cdn38.cloudlionscdn.com/hls/kXKRBslhrZ2Zy7NxZkzsJaRd9mhAQw/index_1920x1080.m3u8
-#EXTGRP:Filmek Bollywood
-#EXTINF:0,Zende Felügyelő
-https://hls1-cdn38.cloudlionscdn.com/hls/WDphFF4eQa2HsvMLjPPrCgkUnQ94mV/index_1920x1080.m3u8
-#EXTINF:0,Savi (2024)
-https://hls1-cdn38.cloudlionscdn.com/hls/poOhOjE8aHKpemfdk49kkl7rpUfRtZ/index_2694x1080.m3u8
-#EXTINF:0,Áldom a szél süvöltő erejét(Bhaje.Vaayu.Vegam.)2024
-https://hls2-cdn31.cloudlionscdn.com/hls/9rtVH9mkvN0esWiqfsMbko0INdy3mS/index_2580x1080.m3u8
-#EXTINF:0,Bengal Tiger 2015
-https://hls1-cdn38.cloudlionscdn.com/hls/492p7BwB3pZW5tmHZU2DOZmzjcMGQK/index_1920x1080.m3u8
-#EXTGRP:Filmek Horror
-#EXTM3U
 
-#EXTGRP:Horror
-#EXTINF:0,Préda (2019)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Ameddig a lábam bírja (2001)
+https://hls1-cdn29.cloudlionscdn.com/hls/Gn3qqwJYjcx7B0R8TebgCrqrftMkLx/index_1994x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Pompei (2014)
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/zR0WywGEkBPsiK77hblwnIke8sAcxg/index_1720x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Intre Chin Si Amin (2019)
+https://hls2-cdn32.cloudlionscdn.com/hls/3vIChN98wEETNsLelT8vC4Ulf9tDdS/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Elrabolt expresszvonat (1965)
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/qkVW1Z2JvkROVA2oQcUR4SO6RgiDJk/index_1130x480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",A nagy szökés 2 - 1. rész
+https://s2-hls1-cdn36.cloudlionscdn.com/hls/kzOKjdT5KUeDSTZqcoxdfXpxEZssqV/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",A nagy szökés 2 - 2. rész
+https://hls2-cdn31.cloudlionscdn.com/hls/8whPhlwmfzJiXqY1duQKYo51pxRQDJ/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Híd a Kwai folyón (1957)
+https://hls2-cdn37.cloudlionscdn.com/hls/OMaAR7fInwe0xgzmYmjDNkvjAaBTmn/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Sztálingrád (2013)
+https://hls2-cdn39.cloudlionscdn.com/hls/yfkaXmh6D3lQQfwF2bzXHxehdoojG1/index_1920x1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Pinokkio
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/JnEHnBEFHVvZuQNDuVcfASHtdzFvK6/index_968x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Nyúlhájkapitány (1954)
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/NgU8uCtb5dX1gpqLjKAfKj0DZ6f8Kk/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Madagaszkár (2005)
+https://fcgbwu5x4pis.drewimplemnt.top/d/ggzewd24o6vqy4m6mgv5f425tks7w2bgaxzx67g5rhygwrcjord26mh3wf4skr6vgltgaclz/Madagaszk%C3%A1r%20(FULLHD).mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Madagaszkár 2
+https://hls1-cdn38.cloudlionscdn.com/hls/kXKRBslhrZ2Zy7NxZkzsJaRd9mhAQw/index_1920x1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Bollywood",Zende Felügyelő
+https://hls1-cdn38.cloudlionscdn.com/hls/WDphFF4eQa2HsvMLjPPrCgkUnQ94mV/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Bollywood",Savi (2024)
+https://hls1-cdn38.cloudlionscdn.com/hls/poOhOjE8aHKpemfdk49kkl7rpUfRtZ/index_2694x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Bollywood",Áldom a szél süvöltő erejét (Bhaje Vaayu Vegam, 2024)
+https://hls2-cdn31.cloudlionscdn.com/hls/9rtVH9mkvN0esWiqfsMbko0INdy3mS/index_2580x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Bollywood",Bengal Tiger (2015)
+https://hls1-cdn38.cloudlionscdn.com/hls/492p7BwB3pZW5tmHZU2DOZmzjcMGQK/index_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Horror",Préda (2019)
 https://hls1-cdn29.cloudlionscdn.com/hls/MOcDOPXI3Tb2xAKUoOJflk2oLxaiUW/index_1728x720.m3u8
-#EXTINF:0,Constantine a démonvadász
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Horror",Constantine, a démonvadász
 https://hls2-cdn32.cloudlionscdn.com/hls/eXtdzKauE4NUF3HEZlQ4qZJa0RrZR1/index_1280x720.m3u8
 
-#EXTGRP:80-as évek
-#EXTINF:0,A Szerelem tengere (1989)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",A Szerelem tengere (1989)
 https://hls1-cdn37.cloudlionscdn.com/hls/46yW3QxCCWd3aBk1cmfElpagKoWJlQ/index_872x480.m3u8
-#EXTINF:0,Vadászat életre halálra (1981)
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",Vadászat életre halálra (1981)
 https://hls1-cdn38.cloudlionscdn.com/hls/0EmNWMiMN2pxCBOsXQH6P5i3s5B1Ii/index_1994x1080.m3u8
-#EXTINF:0,Szabadlábon Velencében (1980)
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",Szabadlábon Velencében (1980)
 https://hls2-cdn32.cloudlionscdn.com/hls/0UO0g27kFJ1wRqevUZPRCo64IdIFLx/index_808x480.m3u8
-#EXTINF:0,szeretlek benneteket (1980)
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",Szeretlek benneteket (1980)
 https://hls1-cdn37.cloudlionscdn.com/hls/rtwYm5bX9lbkYs4CC7LSPmQElcreN7/index_900x720.m3u8
-#EXTINF:0,A rejtőzködő (1987)
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",A rejtőzködő (1987)
 https://s2-hls1-cdn43.rdr2games.com/hls/A7YsnCOKjzZ3DpCZ1hXM4aUYG93dWe/index_1920x1080.m3u8
-#EXTINF:0,A zöldfülű (1987) akcio
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",A zöldfülű (1987) akció
 https://s2-hls1-cdn43.rdr2games.com/hls/bqnRJHgnB82JbQwWfGJ9x8Npqqoalr/index_1720x720.m3u8
-#EXTINF:0,53 Hideg nyara (1987)
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",53 Hideg nyara (1987)
 https://hls2-cdn32.cloudlionscdn.com/hls/PIgKJBg3OwqoAtsfvvnxOYmXXvR551/index_954x720.m3u8
-#EXTINF:0,Xanadu 1980
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",Xanadu (1980)
 https://hls2-cdn32.cloudlionscdn.com/hls/rS5CHYrLnCeR27Zyjss1kyFR9vuykh/index_1998x1080.m3u8
-#EXTINF:0,A halálhágó 1986
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 80-as évek",A halálhágó (1986)
 https://s2-hls1-cdn43.rdr2games.com/hls/0ANBld9sDmoMc1svrwq3PG0GQAaMMH/index_1920x1080.m3u8
+
+
+
 
 #EXTGRP:70-es évek
 #EXTINF:0,Fantozzi (1975)
