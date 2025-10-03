@@ -48,11 +48,6 @@ https://s2-hls2-cdn34.cloudlionscdn.com/hls/yHUdu5jOOrosSKFXCoypIRzUWt3n2i/index
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Utószezon
 https://hls1-cdn37.cloudlionscdn.com/hls/713mgGwKZsnzabxxCpPRycRKVv2gcw/index_640x480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Két emelet boldogság
-https://hls2-cdn31.cloudlionscdn.com/hls/GZensHESzqDHIGBvVwxCvcD6uJF6jQ/index_852x480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Zimmer Feri 2
-https://hls2-cdn31.cloudlionscdn.com/hls/wGDlZ6HRLKtVRJzCwZLDw92pTOeQA9/index_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Ámbár tanár úr
 https://hls1-cdn38.cloudlionscdn.com/hls/0GioKy1McPEmoUD5WMatkbrSO4Yobb/index_1920x1080.m3u8
@@ -77,8 +72,6 @@ https://s2-hls1-cdn43.rdr2games.com/hls/Oe50d96ZipqqytJVyw5AcdqKYicOxO/index_192
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",A nyomozás 1983
 https://hls2-cdn32.cloudlionscdn.com/hls/ltgyEogRdUws48WiCK7lp6RWL250Ch/index_640x480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Szerelmes biciklisták 1965
-https://hls2-cdn39.cloudlionscdn.com/hls/VxRiuSG3ES2buC64mQZQjInR35zeiR/index_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Dunai hajós 1 rész 1974
 https://hls1-cdn46.cloudlionscdn.com/hls/zfWAUPOC8hRsEKgbIre5UvRhhLzzRX/index_1280x720.m3u8
@@ -113,18 +106,11 @@ https://hls1-cdn29.cloudlionscdn.com/hls/03Kn4ZvbrAewXY2DGGSyrDq75Kzj6y/index_64
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",5 óra 40 perc
 https://hls1-cdn29.cloudlionscdn.com/hls/dxTQ1yzwcyklPfV2W6NAIufrKK74Xf/index_654x480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar",120-as Tempo
-https://hls2-cdn31.cloudlionscdn.com/hls/B6HT3oVvnqHb5GHuHjB3fW9fpjcX31/index_666x480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar",Csúnya lány 1937 
 https://hls1-cdn29.cloudlionscdn.com/hls/oQ5TXawJg2PN3PsCQXEuzEuPHE3s6c/index_666x480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar", A kölcsönkért kastély
-https://hls2-cdn31.cloudlionscdn.com/hls/0pmyLatQZVZCs7AvZQwVmF6wrJZxFQ/index_654x480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar",Bob Herceg 1937
-https://hls2-cdn31.cloudlionscdn.com/hls/G41dxuL1OxyanBvRnfECWOCHiSpQKC/index_680x480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar",Valamit visz a víz
 https://hls1-cdn29.cloudlionscdn.com/hls/2ranE4QxR7muwp0DVo8uAoWDpLKNht/index_692x480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-"" group-title="Filmek Magyar" ,Pesti mese (1937)  
-https://hexload.com/87gnjj14r4ue.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Szárnyát vagy combját
@@ -249,8 +235,6 @@ https://hls1-cdn46.cloudlionscdn.com/hls/pdb5WETZ3mN3MuPI4KtXhf2C0ftJrI/index_25
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Idegen a cowboyok között (1958)
 https://hls2-cdn39.cloudlionscdn.com/hls/LhpSj75CrbMyz6XxNKUaaN4F5DzWGAgqs4/index_1918x1080.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Westerplatte-i csata (2013)
-https://hls2-cdn31.cloudlionscdn.com/hls/073Cdn6ig4XWG6ojzI9sVPORKihEDk/index_960x480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Ameddig a lábam bírja (2001)
 https://hls1-cdn29.cloudlionscdn.com/hls/Gn3qqwJYjcx7B0R8TebgCrqrftMkLx/index_1994x1080.m3u8
@@ -273,8 +257,6 @@ https://hls2-cdn31.cloudlionscdn.com/hls/8whPhlwmfzJiXqY1duQKYo51pxRQDJ/index_19
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Híd a Kwai folyón (1957)
 https://hls2-cdn37.cloudlionscdn.com/hls/OMaAR7fInwe0xgzmYmjDNkvjAaBTmn/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Sztálingrád (2013)
-https://hls2-cdn39.cloudlionscdn.com/hls/yfkaXmh6D3lQQfwF2bzXHxehdoojG1/index_1920x1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Pinokkio
 https://s2-hls2-cdn35.cloudlionscdn.com/hls/JnEHnBEFHVvZuQNDuVcfASHtdzFvK6/index_968x720.m3u8
 
@@ -342,23 +324,16 @@ https://hls1-cdn37.cloudlionscdn.com/hls/YBAvgVT95KJ9YAoXVAcbjLmgEKABf6/index_11
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Piszkos Harry (1971)
 https://hls1-cdn38.cloudlionscdn.com/hls/WJ9FgZroNaOn05Jx1pxB2QneWkwC3e/index_1728x720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Arany - Gold! (1974)
-https://hls2-cdn31.cloudlionscdn.com/hls/OwrYNhoXmaHqlfVFUyCXWwvxME8KMp/index_1694x720.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Lepke a vállon (1973)
 https://s2-hls1-cdn43.rdr2games.com/hls/2f0gEDBXfSLpEZLbc1b3dWzv6qE0Yp/index_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Keressétek a bálványt (1974)
 https://hls2-cdn37.cloudlionscdn.com/hls/Sje8BtfOxCrY9J1rAggaRfX286lin8/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Orca (1977)
-https://hls2-cdn39.cloudlionscdn.com/hls/oa2DxNWvsae2Za9y3JfXAqvwQHkdZF/index_2542x1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 60-as évek",A Quiller jelentés (1966)
 https://s2-hls2-cdn34.cloudlionscdn.com/hls/g34ewiW5XJ2OezmZmr6bLkYowiMlld/index_1130x480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 60-as évek",Folytassa a sivatagban (1967)
-https://hls2-cdn31.cloudlionscdn.com/hls/ab2TwTkXi9MRpJe2mIKHY0sYjXXebr/index_830x480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 60-as évek",Khartoum a Nílus városa (1966)
 https://hls1-cdn38.cloudlionscdn.com/hls/XkNXl6yUTrwizMxsaSBAtNHIlLMtpT/index_1976x720.m3u8
@@ -387,8 +362,6 @@ https://s2-hls2-cdn34.cloudlionscdn.com/hls/P6hQmEVq8zQW2xY6nmBuPxhz9X21ql/index
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 60-as évek",Temetni veszélyes (1963)
 https://hls1-cdn37.cloudlionscdn.com/hls/EEBQ7M3Jr9eL6cMG1GYRGgUiCqVj4y/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 60-as évek",Rómeó és Júlia (1964)
-https://hls2-cdn31.cloudlionscdn.com/hls/D1ifgisCKQ7mMTu8AVaTTeenD1Syyn/index_1330x720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 60-as évek",Szemtől szemben (1967)
 https://s2-hls1-cdn43.rdr2games.com/hls/NaPeIGU0swibemcnJZSuyDB6q2lP3o/index_1280x720.m3u8
