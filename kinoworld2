@@ -24,8 +24,6 @@ https://s2-hls1-cdn43.rdr2games.com/hls/RXNyWxLgAXjXkzvjnYBCZfUDx6EFJs/index_192
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Premier 2025",A másik oldal -Putyin frontvonalaán 2025
 https://s2-hls1-cdn43.rdr2games.com/hls/Km1roS1MxGjVvq6ohDLhznBut2CXrl/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Premier 2025",Mindig eljön az éj 2025
-https://hls2-cdn31.cloudlionscdn.com/hls/v8WvqvAC6uoaSV6ppA9lPELlM4i96D/index_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Premier 2025",Karate Kid -Legendák 20025
 https://hls2-cdn37.cloudlionscdn.com/hls/uwXe6d9SN8gFqLfz8BNcUjyxYXFlFA/index_1332x720.m3u8
@@ -116,8 +114,6 @@ https://hls1-cdn29.cloudlionscdn.com/hls/2ranE4QxR7muwp0DVo8uAoWDpLKNht/index_69
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Szárnyát vagy combját
 https://s2-hls2-cdn35.cloudlionscdn.com/hls/SFHjASH3XNj3L7AShcLZp83KOe2VUh/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Hajrá Franciák (1964)
-https://hls1-cdn38.cloudlionscdn.com/hls/J1wren44WEgDfc8B4qVXa8nI0zJR7/index_800x480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Forró rágógumi
 https://hls1-cdn37.cloudlionscdn.com/hls/6NhZmmb4CBeIHJ0qSyErnuvBtwdG5s/index_654x480.m3u8
@@ -134,14 +130,9 @@ https://hls2-cdn32.cloudlionscdn.com/hls/Z4HqE6P3IG63ngyJspVpG0WhBytFi0/index_12
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Segítség felnőttem
 https://hls2-cdn30.strmupcdn.cc/hls/y5g5jRWAMghGtAnXRWpf6vuFu5AAs2/index_1994x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Ikrek
-https://hls2-cdn31.cloudlionscdn.com/hls/wPhEQKihMFHxHJgeh3ai4xkMzMIc5q/index_1998x1080.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",Mr Végzet
 https://hls1-cdn38.cloudlionscdn.com/hls/dRbP7FDqZJdGXSDmJRPIShSQ9YcvTM/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Vígjátékok",40 éves szűz
-https://hls2-cdn31.cloudlionscdn.com/hls/z4RIAyMXTXgiY6Xn4RqZUkjx6Pogpt/index_1998x1080.m3u8
 #EXTM3U
 
 # Sci Fi kategória
@@ -163,8 +154,6 @@ https://hls2-cdn32.cloudlionscdn.com/hls/wmwYBEKibXrMsfjs8iFFDRbvwnqKUf/index_20
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Mentőexpedíció
 https://hls1-cdn38.cloudlionscdn.com/hls/DIAqUBsPznPbWgBQjOMBr2HpZyEan4/index_1732x720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",Az Útvesztő 2013
-https://hls2-cdn31.cloudlionscdn.com/hls/nQucGLv2l5wWzwRpSQiixz6ua9JuGx/index_1728x720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",The Abyss-A mélység titka (1989)
 https://hls1-cdn38.cloudlionscdn.com/hls/Gw2u563Zcxv6qz6JsJnTlHr1xNcImx/index_2586x1080.m3u8
@@ -196,8 +185,6 @@ https://s2-hls2-cdn35.cloudlionscdn.com/hls/3t5H7s8ItvTuEfHyzLxxQeq97UDQA7/index
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Nem futhatsz örökké 2024
 https://hls2-cdn31.cloudlionscdn.com/hls/EV8JT41CPMSV7eMHeIdIUKPh0gORFY/index_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A13.-as (Mickey Rourke)
-https://hls2-cdn31.cloudlionscdn.com/hls/KtFWAyyT4cO2ynqWDph8ZORzYNmMoH/index_864x480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A szürke ember (2022)
 https://s2-hls1-cdn43.rdr2games.com/hls/D1LQ6bYaStsWuEwKPoQdP812nHlBVo/index_2580x1080.m3u8
@@ -211,8 +198,6 @@ https://hls2-cdn30.strmupcdn.cc/hls/6YiiDtxfLJn7UYGZkxZNZnJdhelCOg/index_1720x72
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Brick
 https://hls1-cdn35.cloudlionscdn.com/hls/cZv5Pryi40AEI2er8bnRiNOyOdJekU/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A gép - The Plane
-https://hls2-cdn39.cloudlionscdn.com/hls/DaEAuAhbC4mihPngepOYUeibNHB0jp/index_1728x720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Felhőkarcoló
 https://hls1-cdn46.cloudlionscdn.com/hls/iwqmidySzQ51OgerDKKr5MoKO7BUtn/index_2592x1080.m3u8
@@ -220,11 +205,7 @@ https://hls1-cdn46.cloudlionscdn.com/hls/iwqmidySzQ51OgerDKKr5MoKO7BUtn/index_25
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A kalandor
 https://hls1-cdn46.cloudlionscdn.com/hls/5iReiDKd8nI4WdIBXtzs5ZqQIWeOnj/index_2542x1080.m3u8
 # Western kategória
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Bosszú El Pasoban - Ace High (1968)
-https://hls2-cdn31.cloudlionscdn.com/hls/AVo67agOxZhMywLv4pfRUVvfCcp7gb/index_2548x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Az inkák kincse
-https://hls2-cdn31.cloudlionscdn.com/hls/o4iPfhGQYeBKSLsPksuUyaJJe1OVje/index_640x480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Fakó lovas (1985)
 https://hls2-cdn30.strmupcdn.cc/hls/7dKqgnYcR7iGRrxHHIR0lj3mNN45Zg/index_1752x720.m3u8
@@ -232,8 +213,6 @@ https://hls2-cdn30.strmupcdn.cc/hls/7dKqgnYcR7iGRrxHHIR0lj3mNN45Zg/index_1752x72
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Fennsíkok csavargója
 https://hls1-cdn46.cloudlionscdn.com/hls/pdb5WETZ3mN3MuPI4KtXhf2C0ftJrI/index_2586x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Western",Idegen a cowboyok között (1958)
-https://hls2-cdn39.cloudlionscdn.com/hls/LhpSj75CrbMyz6XxNKUaaN4F5DzWGAgqs4/index_1918x1080.m3u8
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Háborús",Ameddig a lábam bírja (2001)
@@ -263,8 +242,6 @@ https://s2-hls2-cdn35.cloudlionscdn.com/hls/JnEHnBEFHVvZuQNDuVcfASHtdzFvK6/index
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Nyúlhájkapitány (1954)
 https://s2-hls2-cdn34.cloudlionscdn.com/hls/NgU8uCtb5dX1gpqLjKAfKj0DZ6f8Kk/index_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Madagaszkár (2005)
-https://fcgbwu5x4pis.drewimplemnt.top/d/ggzewd24o6vqy4m6mgv5f425tks7w2bgaxzx67g5rhygwrcjord26mh3wf4skr6vgltgaclz/Madagaszk%C3%A1r%20(FULLHD).mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Rajzfilmek",Madagaszkár 2
 https://hls1-cdn38.cloudlionscdn.com/hls/kXKRBslhrZ2Zy7NxZkzsJaRd9mhAQw/index_1920x1080.m3u8
