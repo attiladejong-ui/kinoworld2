@@ -63,6 +63,9 @@ https://hls1-cdn37.cloudlionscdn.com/hls/713mgGwKZsnzabxxCpPRycRKVv2gcw/index_64
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Ámbár tanár úr
 https://hls1-cdn38.cloudlionscdn.com/hls/0GioKy1McPEmoUD5WMatkbrSO4Yobb/index_1920x1080.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Szerelmes biciklisták 1965
+https://hls2-cdn39.strmupcdn.cc/hls/VxRiuSG3ES2buC64mQZQjInR35zeiR/index_1280x720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Miss Arizona
 https://hls1-cdn37.cloudlionscdn.com/hls/lE5TezipU9iKbKv05ajPQJTK825Ll7/index_1920x1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Magyar",Egy szerelem három éjszakája
