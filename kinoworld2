@@ -320,6 +320,9 @@ https://hls1-cdn38.cloudlionscdn.com/hls/8WrDuMT6kY6zOf5KGiTtjEzzHXwLdY/index_19
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Emmanuelle (1974)
 https://hls1-cdn37.cloudlionscdn.com/hls/YBAvgVT95KJ9YAoXVAcbjLmgEKABf6/index_1176x720.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Orca (1977)
+http://magyar-iptv.club:8080/get.php?username=qPN4jjTFFG&password=f9V6kuguJT&type=m3u_plus&output=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek 70-es évek",Piszkos Harry (1971)
 https://hls1-cdn38.cloudlionscdn.com/hls/WJ9FgZroNaOn05Jx1pxB2QneWkwC3e/index_1728x720.m3u8
 
