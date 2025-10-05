@@ -190,6 +190,9 @@ https://hls1-cdn38.cloudlionscdn.com/hls/1YODSopB01cEgREVWZwVodrlDIo3kc/index_19
 # Thriller / Akció / Krimi kategória
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",A Világ összes pénze (2017)
 https://hls1-cdn29.cloudlionscdn.com/hls/m1eKkGX57cfB04k2VtVqvtJ6lnNoIw/index_1152x480.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmek", Film Stream
+https://s1-hls1-cdn47.strmupcdn.cc/hls/bQYGKnF4YIz53NnaWFkvnQl2NubNNi/index_1702x720.m3u8?token=a80257155b995a2a31863e3b717c82ed-1759715758-84.115.217.232-cf6758c2f1mEYL5BafG342J5we698EJKzrBGxWtebG
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Thriller Akció Krimi",Senki 2.
